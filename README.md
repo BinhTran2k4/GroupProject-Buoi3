@@ -1,1 +1,1 @@
-Dòng ghi chú chung cho cả nhóm
+Minh cập nhật dòng này trong README
