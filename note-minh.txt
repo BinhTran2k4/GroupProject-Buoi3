@@ -1,0 +1,3 @@
+Đây là ghi chú lần 2 của Minh.
+Tôi đã hiểu cách commit nhiều lần để dễ theo dõi lịch sử thay đổi.
+
